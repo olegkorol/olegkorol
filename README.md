@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+I'm Oleg, a senior software developer and cloud architect.
+
+- 🔭 Some of my latest open-source projects:
+  - [firestore-admin](https://github.com/olegkorol/firestore-admin) – A Firestore client for Deno
+  - [next-yandex-metrika](https://github.com/olegkorol/next-yandex-metrika) – Next.js component for Yandex Metrika
+  - [get-indexed](https://github.com/olegkorol/get-indexed) – A simple script to get your site indexed by Google faster, using just your Sitemap
+- 🥞 My tech-stack:
+  - TypeScript / JavaScript
+  - React / Next.js
+  - AWS & GCP
+  - Postgres, Firestore, MongoDB, SQLite
+  - Supabase, Upstash, Turso etc.
+- 🌱 I’m currently learning:
+  - 🦀 Rust
+  - 🐍 Python
+
 <!--
 **olegkorol/olegkorol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
