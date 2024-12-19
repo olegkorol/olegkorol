@@ -9,6 +9,7 @@ I'm Oleg, a senior software developer and cloud architect.
 - 🥞 My tech-stack:
   - TypeScript / JavaScript
   - React / Next.js
+  - Node.js / Deno
   - AWS & GCP
   - Postgres, Firestore, MongoDB, SQLite
   - Supabase, Upstash, Turso etc.
