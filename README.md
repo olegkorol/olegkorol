@@ -10,7 +10,7 @@ I'm Oleg, a senior software developer and cloud architect.
   - [firestore-admin](https://github.com/olegkorol/firestore-admin) – A Firestore client for Deno
   - [next-yandex-metrika](https://github.com/olegkorol/next-yandex-metrika) – Next.js component for Yandex Metrika
   - [get-indexed](https://github.com/olegkorol/get-indexed) – A simple script to get your site indexed by Google faster, using just your Sitemap
-  - [pylox](https://github.com/olegkorol/pylox) - A language implementation of Lox (lexer, parser & interpreter), written in Python
+  - [pylox](https://github.com/olegkorol/pylox) - A language implementation (lexer, parser & interpreter) of Lox, written in Python [for learning purposes]
 - 🥞 My tech-stack:
   - TypeScript / JavaScript
   - Python
