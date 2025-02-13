@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[LinkedIn](https://www.linkedin.com/in/olegkorol/)  |  [Bluesky](https://bsky.app/profile/koiztech.bsky.social)
+
 I'm Oleg, a senior software developer and cloud architect.
 
 - ⚡ Currently working on:
