@@ -5,7 +5,9 @@ I'm Oleg, a senior software developer and cloud architect.
 - ⚡ Currently working on:
   - [koiztech](https://www.koiztech.com) – A software development agency / freelance projects
     - [Asservato](https://asservato.de): Germany's leading safe deposit boxes provider
-  - [AutoSupport](https://autosupport.koiztech.com) – AI-automated email support for everyone
+  - [AutoSupport](https://autosupport.koiztech.com) – AI-automated email support for everyone (alpha version – to be completed)
+- 📗 My blog (collection of TILs and small notes to myself, mostly):
+  - [blog.olegkorol.de](https://blog.olegkorol.de)
 - 🔭 Some of my latest open-source projects:
   - [firestore-admin](https://github.com/olegkorol/firestore-admin) – A Firestore client for Deno
   - [next-yandex-metrika](https://github.com/olegkorol/next-yandex-metrika) – Next.js component for Yandex Metrika
