@@ -26,6 +26,12 @@ I'm Oleg, a senior software developer and cloud architect.
 - 🌱 I’m currently learning:
   - 🦀 Rust
 
+Languages I use to communicate with other humans:
+- English 🇬🇧
+- Spanish 🇪🇸 / Catalan 💬
+- Russian 🇷🇺
+- German 🇩🇪
+
 <!--
 **olegkorol/olegkorol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
