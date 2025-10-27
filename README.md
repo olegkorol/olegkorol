@@ -6,9 +6,11 @@ I'm Oleg, a senior software developer and cloud architect.
 
 - ⚡ Currently working on:
   - [koiztech](https://www.koiztech.com) – A software development agency / freelance projects
-    - Some Company: Germany's leading safe deposit boxes provider
+    - Current customers:
+      * Company "X": Germany's leading safe deposit boxes provider
+      * Company "Y": Leading metal detectors manufacturer
   - [Rödd AI](https://roddai.com) – AI Voice Agents for everyone. Get one working in under 10 minutes.
-  - [AutoSupport](https://autosupport.koiztech.com) – AI-automated email support for everyone (on hold)
+  - ~~[AutoSupport](https://autosupport.koiztech.com) – AI-automated email support for everyone~~ (on hold)
 - 📗 My blog (collection of TILs and small notes to myself, mostly):
   - [blog.olegkorol.de](https://blog.olegkorol.de)
 - 🔭 Some of my latest open-source projects:
